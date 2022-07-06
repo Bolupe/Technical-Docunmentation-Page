@@ -1,3 +1,9 @@
+*{
+    box-sizing: border-box;
+    max-width: 100%;
+    margin: 0px;
+}
+
 #navbar {
     position: fixed;
     min-width: 290px;
